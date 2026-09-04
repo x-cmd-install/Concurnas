@@ -7,7 +7,7 @@ about:
   head: 54a842c
   archived: false
   latestVersion: 1.14.020
-  collectedAt: 2026-09-04T19:30:18Z
+  collectedAt: 2026-09-04T21:03:28Z
 timeline:
   created: 2019-12-04
   lastCommit: 2023-10-10
@@ -91,5 +91,68 @@ total:
   openIssue: 51
   commit: 114
 ---
+path: /home/runner/.x-repo/github.com/Concurnas/Concurnas
+collectedAt: 2026-09-04T21:03:30Z
+loc:
+  Java:
+    code: 151689
+    comments: 55670
+    blanks: 34425
+    files: 941
+  SpecmanE:
+    code: 16237
+    comments: 6101
+    blanks: 6647
+    files: 86
+  Tex:
+    code: 10792
+    comments: 182
+    blanks: 3819
+    files: 52
+  Cpp:
+    code: 5847
+    comments: 1373
+    blanks: 1260
+    files: 6
+  CppHeader:
+    code: 1976
+    comments: 718
+    blanks: 260
+    files: 3
+  Batch:
+    code: 282
+    comments: 2
+    blanks: 80
+    files: 3
+  Bash:
+    code: 270
+    comments: 58
+    blanks: 57
+    files: 2
+  Html:
+    code: 247
+    comments: 174
+    blanks: 35
+    files: 6
+  Sh:
+    code: 130
+    comments: 38
+    blanks: 20
+    files: 1
+  Markdown:
+    code: 0
+    comments: 111
+    blanks: 50
+    files: 2
+  Text:
+    code: 0
+    comments: 424
+    blanks: 72
+    files: 6
+total:
+  code: 187470
+  comments: 64851
+  blanks: 46725
+  files: 1108
 ---
 
